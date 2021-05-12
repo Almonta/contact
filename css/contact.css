@@ -19,7 +19,7 @@ li {
   list-style: none;
 }
 .header {
-  background-color: #F5B4B3;
+  background-color: #00008b;
   height: 50px;
   font-size: 1.5rem;
 }
@@ -57,7 +57,7 @@ ul.top_menu {
   float: left;
 }
 .side_menu li{
-  background-color: #F5B4B3;
+  background-color: #00008b;
   height: 6rem;
   margin-bottom: 10px;
 }
@@ -73,7 +73,7 @@ ul.top_menu {
   padding: 2rem;
 }
 .side_menu .point{
-  background-color: #FCECEC;
+  background-color: #6495ed;
 }
 .side_menu .point a{
   color: #4D4D4D
@@ -95,7 +95,7 @@ form{
   width: 150px;
   text-align: right;
   padding-right: 10px;
-  color: #000
+  color: #00008b
 }
 
 .contact td{
@@ -108,7 +108,7 @@ form{
 
 textarea{
   width: 480px;
-  height: 4rem;
+  height: 10rem;
 }
 
 .content p{
@@ -116,7 +116,7 @@ textarea{
 }
 
 .button {
-  background: #008B8B;
+  background: #1e90ff;
   border: none;
   color: white;
   font-size: 3rem;
